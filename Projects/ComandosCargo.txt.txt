@@ -1,0 +1,10 @@
+- cargo new // crea un nuevo proyecto con cargo
+- cargo build // compila el proyecto y crea un ejecutable para debug.
+- cargo build --release // compila el proyecto y crea un ejecutable para lanzamiento.
+- cargo run // compila el proyecto, crea un ejecutable para debug y lo ejecuta.
+- cargo check // te dice si el proyecto compila bien o no.
+- cargo doc --open // crea documentacion de las librerias implementadas en tu proyecto.
+
+
+// MAS SOBRE CARGO:
+https://doc.rust-lang.org/cargo/index.html
